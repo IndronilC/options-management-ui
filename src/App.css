@@ -1,0 +1,173 @@
+.option-key-table {
+  margin-top: 50px;
+  margin-left: 500px;
+  width: 40%;
+  overflow: hidden;
+  background-color: grey ;
+}
+
+.title-optionkey{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xx-large;
+  font-weight: bold;
+  color: blueviolet;
+  margin-left: 330px;
+ 
+}
+
+.box-createoptionkey{
+  margin-top: 50px;
+  margin-left: 600px;
+  /* background-color: grey; */
+}
+
+ /* .popup-ok{
+  height: 200px;
+  width: 350px;
+  border-radius: 10px;
+  opacity: 1;
+  transform: none;
+  transition: opacity 281ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, transform 187ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  margin-top: 0px;
+  margin-left: 100px;
+  transform-origin: 240px 0px;
+  background-color: grey;
+}  */
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiPopover-paper.css-3bmhjh-MuiPaper-root-MuiPopover-paper {
+  height: 200px;
+  width: 350px;
+  border-radius: 10px;
+  margin-left:-123px;
+  /* opacity: 50;
+  transform: none;
+  transition: opacity 281ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, transform 187ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  top: 445px;
+  margin-left: -130px;
+  transform-origin: 240px 0px; */
+  /* background-color: grey; */
+}
+/* 
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiPopover-paper.css-3bmhjh-MuiPaper-root-MuiPopover-paper {
+  height: 200px;
+  width: 350px;
+  border-radius: 10px;
+  margin-left: 322px;
+  margin-top: -195px;
+} */
+.icon-circledone{
+  width: 500px;
+  color: blue;
+}
+
+.add-button{
+  margin-top: -40px;
+  margin-left: 1300px;  
+}
+
+.button-ok{
+  position: absolute;
+    margin-top: 30px !important;
+    background-color: rgb(86, 86, 162);
+    width: 84px;
+    height: 32px;
+    border-radius: 8px;
+    color: white;
+    top: 56%;
+    left: 39%;
+    border: none;
+}
+
+.button-createoptionkey{
+  /* background-color: grey; */
+  margin-top: 80px;
+  margin-left: 800px;
+}
+
+.button-createoptionlookup{
+  margin-top: 80px;
+  margin-left: 0px;
+}
+
+label.text{
+  left: 67px;
+    position: absolute;
+    top: 49px;
+}
+
+.popup{
+  /* background-color: grey; */
+  margin-left: 470px;
+  margin-top: -250px;
+}
+
+.popup-ok{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.popup-optionlookup{
+ margin-left: 400px;
+}
+
+.tickimg{
+  position: absolute;
+  width: 17%;
+    left: 43%;
+    top: 40%;
+}
+
+.select-optionkey{
+  /* background-color: grey; */
+  /* margin-top: 10px; */
+  margin-left: 100px;
+  width: 250px;
+}
+
+.secondrow{
+  background-color: grey;
+}
+
+
+
+.form-optionlookup{
+  margin-top: 50px;
+  left: 330px;
+  height: 500px;
+  width: 1000px;
+  /* background-color: grey  !important;  */
+}
+
+.row1-optionlookup{
+  width: 800px;
+  height: 80px;
+  /* background-color: aqua; */
+  display: inline-block;
+  
+}
+
+.row2-optionlookup{
+  width: 800px;
+  height: 90px;
+  margin-top: 10px;
+  /* background-color: aqua; */
+  display: inline-block;
+  
+}
+
+.row3-optionlookup{
+  width: 800px;
+  height: 80px;
+  margin-top: 10px;
+  /* background-color: aqua; */
+  display: inline-block;
+  
+}
+
+
+.input-lookupvalue{
+  width: 250px;
+  left: 100px;
+}
+
