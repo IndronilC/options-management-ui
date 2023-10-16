@@ -21,18 +21,6 @@
   /* background-color: grey; */
 }
 
- /* .popup-ok{
-  height: 200px;
-  width: 350px;
-  border-radius: 10px;
-  opacity: 1;
-  transform: none;
-  transition: opacity 281ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, transform 187ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
-  margin-top: 0px;
-  margin-left: 100px;
-  transform-origin: 240px 0px;
-  background-color: grey;
-}  */
 
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiPopover-paper.css-3bmhjh-MuiPaper-root-MuiPopover-paper {
   height: 200px;
@@ -47,14 +35,7 @@
   transform-origin: 240px 0px; */
   /* background-color: grey; */
 }
-/* 
-.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiPopover-paper.css-3bmhjh-MuiPaper-root-MuiPopover-paper {
-  height: 200px;
-  width: 350px;
-  border-radius: 10px;
-  margin-left: 322px;
-  margin-top: -195px;
-} */
+
 .icon-circledone{
   width: 500px;
   color: blue;
@@ -78,11 +59,6 @@
     border: none;
 }
 
-.button-createoptionkey{
-  /* background-color: grey; */
-  margin-top: 80px;
-  margin-left: 800px;
-}
 
 .button-createoptionlookup{
   margin-top: 80px;
@@ -136,13 +112,13 @@ label.text{
   left: 330px;
   height: 500px;
   width: 1000px;
-  /* background-color: grey  !important;  */
+  /* background-color: grey;  */
 }
 
 .row1-optionlookup{
   width: 800px;
   height: 80px;
-  /* background-color: aqua; */
+  background-color: aqua;
   display: inline-block;
   
 }
@@ -163,6 +139,62 @@ label.text{
   /* background-color: aqua; */
   display: inline-block;
   
+}
+
+.form-optionkey{
+  width: 500px;
+  height: 500px;
+  margin-top: 50px;
+  margin-left: 330px;
+  /* background-color: chartreuse; */
+}
+
+/* all-labels in option key */
+.label{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight:bold;
+  font-size: large;
+  display: flex;
+  margin-bottom: 5px;
+  
+}
+
+/* all-inputs in option key*/
+input[type="text"],
+input[type="text"]{
+  display: block;
+  width: 300px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 2.5;
+  border:1px solid black;
+  border-radius: 4px;
+  margin-bottom: 20px;
+
+}
+
+.row1-optionkey{
+  width: 300px;
+  height: 250px;
+  margin-left: 0px;
+  font-weight: bold;
+  display: block;
+  /* background-color: aqua; */
+  display: inline-block;
+}
+
+.button-optionkey{
+  display: block;
+  margin-top: 0px;
+  width: 90px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: blueviolet;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight:bold;
+  font-size: large;
+
 }
 
 
